@@ -12,4 +12,4 @@ Project was created with:
 * Keras
 
 ## Data
-The data, made up of headlines of sports news, was scrapped from the Complete Sports <a href='https://www.completesports.com/'>English</a> and <a href'='https://www.completesports.com/ig/'>Igbo</a> websites.
+The data, made up of headlines of sports news, was scrapped from the Complete Sports <a href='https://www.completesports.com/'>English</a> and <a href='https://www.completesports.com/ig/'>Igbo</a> websites.
