@@ -12,9 +12,9 @@ This NLP project applies the Tensorflow Transformer model in a sequence-to-seque
 # Technologies
 Project was created with:
 
-* Python
-* TensorFlow
-* Keras
+* Python==3.8.18
+* TensorFlow==2.13.0
+* Keras==2.13.1
 
 ## Data
 The data, made up of headlines of sports news, was scrapped from the Complete Sports <a href='https://www.completesports.com/'>English</a> and <a href='https://www.completesports.com/ig/'>Igbo</a> websites. The 17963 English-Igbo pairs was split into training(80%), validation(10%) and test(10%) datasets.
