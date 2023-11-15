@@ -1,7 +1,7 @@
 # English-To-Igbo-Translation
 English translation to Igbo using TensorFlow Transformer model. 
 
-## Table of contents]
+## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Data](#data)
